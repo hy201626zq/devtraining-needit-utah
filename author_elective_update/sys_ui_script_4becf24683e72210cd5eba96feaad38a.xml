@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="DELETE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
+        <name>x_58872_needit.xxxx</name>
+        <script><![CDATA[// Replace "yourFunctionName" with an appropriate function name
+
+(function() {
+	return {
+		// Define your Workspace functions here
+		yourFunctionName: function() {
+
+			// Workspace code goes here 
+
+		}
+	};
+})();
+
+// Define your core UI functions here
+function yourFunctionName() {
+
+	// Core UI code goes here
+
+}]]></script>
+        <script_name>xxxx</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 15:23:47</sys_created_on>
+        <sys_id>4becf24683e72210cd5eba96feaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.xxxx</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_script_4becf24683e72210cd5eba96feaad38a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 15:23:47</sys_updated_on>
+        <ui_type>0</ui_type>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b3c3ed99db727514ae4c9027c59619d2</instance_id>
+        <instance_name>dev226804</instance_name>
+        <name>sys_ui_script_4becf24683e72210cd5eba96feaad38a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;ignore_in_now_experience&gt;false&lt;/ignore_in_now_experience&gt;&lt;name&gt;x_58872_needit.xxxx&lt;/name&gt;&lt;script&gt;&lt;![CDATA[// Replace "yourFunctionName" with an appropriate function name
+
+(function() {
+	return {
+		// Define your Workspace functions here
+		yourFunctionName: function() {
+
+			// Workspace code goes here 
+
+		}
+	};
+})();
+
+// Define your core UI functions here
+function yourFunctionName() {
+
+	// Core UI code goes here
+
+}]]&gt;&lt;/script&gt;&lt;script_name&gt;xxxx&lt;/script_name&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-25 15:23:47&lt;/sys_created_on&gt;&lt;sys_id&gt;4becf24683e72210cd5eba96feaad38a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_58872_needit.xxxx&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_4becf24683e72210cd5eba96feaad38a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-25 15:23:47&lt;/sys_updated_on&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>437634613</payload_hash>
+        <record_name>x_58872_needit.xxxx</record_name>
+        <reverted_from/>
+        <source>3c6c69b383172210cd5eba96feaad3a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 15:23:48</sys_created_on>
+        <sys_id>a21dbe8283e72210cd5eba96feaad335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198e1d40ff30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 15:23:48</sys_updated_on>
+        <type>UI Script</type>
+        <update_guid>a61dbe82aae72210a5b44acd85505b34</update_guid>
+        <update_guid_history>a61dbe82aae72210a5b44acd85505b34:437634613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 15:24:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_script">sys_ui_script</sys_db_object>
+        <sys_id>633c32275b8244bf9a3b5a813fc7ee99</sys_id>
+        <sys_metadata>4becf24683e72210cd5eba96feaad38a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.xxxx</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_script_4becf24683e72210cd5eba96feaad38a</sys_update_name>
+        <sys_update_version display_value="sys_ui_script_4becf24683e72210cd5eba96feaad38a">a21dbe8283e72210cd5eba96feaad335</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 15:24:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
